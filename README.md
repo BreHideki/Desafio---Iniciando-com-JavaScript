@@ -1,7 +1,7 @@
 ## Desafio - Iniciando com JavaScript
 Este é um projeto que concluí como parte de um desafio para praticar conceitos básicos de JavaScript.
 
-##🚀 Introdução
+🚀 ##Introdução
 O desafio "Iniciando com JavaScript" consiste em resolver uma série de exercícios que abordam conceitos fundamentais da linguagem JavaScript. Os exercícios incluem a exibição de mensagens em alertas, operações aritméticas, verificação de tipos de dados e condicionais simples.
 
 ##📝 Resumo do Projeto
